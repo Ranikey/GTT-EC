@@ -13,7 +13,7 @@ GTT-EC is developed under a Linux environment. The major dependencies include:
 # Install and run the program
 **1.** Navigate to the project directory:
 ```bash
-cd /workspace/luozihan/GTT-EC
+cd GTT-EC
 ```
       
 **2.** Install the required packages if you haven't already. You may need to install [ESMFold](https://github.com/facebookresearch/esm) and [ProtTrans](https://github.com/agemagician/ProtTrans) following their official tutorials.
